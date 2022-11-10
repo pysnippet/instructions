@@ -2,11 +2,6 @@
 
 Below are described PySnippet's **Terms of Use**. Last modified on _10 Nov 2022_.
 
-## Cookies
-
-The site does not collect user data in cookies. Cookies on this site are exceptionally used for security reasons. The
-site uses Django underhood, and the only cookie that is used is `csrftoken`.
-
 ## Acceptable Use Policy
 
 It is **not acceptable** to
