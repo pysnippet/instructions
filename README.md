@@ -1,13 +1,11 @@
 # Instructions for PySnippet GitHub organization
 
----
-
 Welcome to PySnippet's official GitHub organization. Please read and follow the instructions and rules below.
 
 ## About
 
-This repository is the Markdown documentation of PySnippet rules and conditions. Here are documented **Terms of Use**
-and **Privacy Policy** open-source pages of the website.
+This repository is the Markdown documentation of PySnippet rules and conditions. Here are documented [**Terms of
+Use**](/TERMSOFUSE.md) and [**Privacy Policy**](/PRIVACYPOLICY.md) open-source pages of the website.
 
 ## Contribute
 
