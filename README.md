@@ -1,7 +1,5 @@
 # Instructions for PySnippet GitHub organization
 
----
-
 Welcome to PySnippet's official GitHub organization. Please read and follow the instructions and rules below.
 
 ## About

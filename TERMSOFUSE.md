@@ -1,7 +1,5 @@
 # Terms of Use
 
----
-
 Below are described PySnippet's **Terms of Use**. Last modified on _10 Nov 2022_.
 
 ## Cookies
