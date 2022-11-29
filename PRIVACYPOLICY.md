@@ -1,19 +1,21 @@
 # Privacy Policy
 
-Below are described PySnippet's **Privacy Policy** rules. Last modified on _10 Nov 2022_.
+Please read and follow PySnippet's **Privacy Policy** rules.
 
 ## Information Collection and Use
 
-The only information collected is your email address when you subscribe to news. It is kept in safety and will not be
-shared with third-party companies.
+You share your personal information such as firstname, lastname and email address when you authorize using your GitHub
+account. We guarantee that all data we have is kept in safety and will never be shared with third-party companies.
 
-There is no auto-collected data that can be used for commercial use. If you notice something suspicious, you can report
-an issue.
+There is no auto-collected data that can be used for commercial use or against you. If you notice something suspicious
+that is not warned here, you can always report an issue.
 
-If you change your mind and do not want us to hold your information, please tell us your problem by sending a mail to
-[support@pysnippet.org](mailto:support@pysnippet.org).
+If you want us to erase your information from our databases, please email
+us: [support@pysnippet.org](mailto:support@pysnippet.org).
 
 ## Cookies
 
 The site does not collect user data in cookies. Cookies on this site are exceptionally used for security reasons. The
-site uses Django underhood, and the only cookie that is used is `csrftoken`.
+site uses Django underhood, and it only holds client-side cookies containing the `csrftoken` and your preferred theme.
+
+_This document was updated on 29 Nov 2022._

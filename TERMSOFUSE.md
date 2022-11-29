@@ -1,8 +1,16 @@
 # Terms of Use
 
-Below are described PySnippet's **Terms of Use**. Last modified on _10 Nov 2022_.
+Please read and follow the PySnippet's **Terms of Use**.
 
 ## Acceptable Use Policy
+
+Anyone can
+
+- Fork and distribute any project if it does not break the license laws.
+- Report an issue or open a discussion.
+- Join the community forum on [Reddit](https://www.reddit.com/r/pysnippet/).
+- Create pull-requests by keeping the contribution rules.
+- Suggest an idea of next open-source project. (this is the main feature of the [pysnippet.org](https://pysnippet.org/))
 
 It is **not acceptable** to
 
@@ -14,8 +22,10 @@ Any breaker of these rules will be blocked by the site admin.
 
 ## Advertisements and Third-Party Resources
 
-This site does not have any commercial benefits and does not show advertisements. The site's resources, such as domain
-and hosting, are powered by the site admin.
+This site does not have any commercial benefits and does not contain any advertisements.
+
+PySnippet is a non-profit organization, and all paid resources, such as domain, hosting, GitHub Enterprise, etc., are
+sponsored by the founder.
 
 ## Minors and the Children's Online Privacy Protection Act
 
@@ -27,3 +37,5 @@ community.
 
 After an idea is submitted by the author and is accepted, a repository is created with a particular license containing
 the author's name.
+
+_This document was updated on 29 Nov 2022._
