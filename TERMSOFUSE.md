@@ -1,7 +1,5 @@
 # Terms of Use
 
-Please read and follow the PySnippet's **Terms of Use**.
-
 ## Acceptable Use Policy
 
 Anyone can
@@ -18,7 +16,8 @@ It is **not acceptable** to
 - Transmit viruses and other malicious computer software.
 - Harass, harm, or otherwise interfere with other users of the community.
 
-Any breaker of these rules will be blocked by the site admin.
+Any breaker of these rules will be blocked by the site admin. Also, read
+our [code of conduct](https://pysnippet.org/codeconduct) for more information.
 
 ## Advertisements and Third-Party Resources
 
@@ -38,4 +37,4 @@ community.
 After an idea is submitted by the author and is accepted, a repository is created with a particular license containing
 the author's name.
 
-_This document was updated on 29 Nov 2022._
+_This document has been updated on 11 Dec 2022._
