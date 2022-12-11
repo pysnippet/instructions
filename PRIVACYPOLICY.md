@@ -1,7 +1,5 @@
 # Privacy Policy
 
-Please read and follow PySnippet's **Privacy Policy** rules.
-
 ## Information Collection and Use
 
 You share your personal information such as firstname, lastname and email address when you authorize using your GitHub
@@ -18,4 +16,4 @@ us: [support@pysnippet.org](mailto:support@pysnippet.org).
 The site does not collect user data in cookies. Cookies on this site are exceptionally used for security reasons. The
 site uses Django underhood, and it only holds client-side cookies containing the `csrftoken` and your preferred theme.
 
-_This document was updated on 29 Nov 2022._
+_This document has been updated on 11 Dec 2022._
