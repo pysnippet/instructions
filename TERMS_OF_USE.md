@@ -2,7 +2,7 @@
 
 ## Acceptable Use Policy
 
-Anyone can
+Everyone can
 
 - Fork and distribute any project if it does not break the license laws.
 - Report an issue or open a discussion.
@@ -37,4 +37,4 @@ community.
 After an idea is submitted by the author and is accepted, a repository is created with a particular license containing
 the author's name.
 
-_This document has been updated on 11 Dec 2022._
+_This document has been updated on 6 Feb 2023._
